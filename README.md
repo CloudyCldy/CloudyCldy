@@ -26,9 +26,8 @@ I’m a coder who loves mixing creativity with a sprinkle of Kuromi’s playful 
 ## 🎀 Let’s connect!
 
 If you want to share Kuromi vibes or just say hi, I’m here! ✨  
-📧 Email: (add your email here)  
-🐦 Twitter: [@CloudyCldy](https://twitter.com/CloudyCldy)  
-🌟 [Portfolio/Website](https://your-website.com) *(add if you have one!)*
+📧 Email: (cloudysa139@gmail.com)  
+
 
 ---
 
