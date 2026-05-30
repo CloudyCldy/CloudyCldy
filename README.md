@@ -1,7 +1,7 @@
 # Cloudy
 
 ## Sobre mí
-Soy desarrolladora full stack enfocada en la creación de aplicaciones web modernas, funcionales y bien estructuradas.  
+Soy desarrolladora  enfocada en la creación de aplicaciones web modernas, funcionales y bien estructuradas.  
 Trabajo principalmente con React, Python y Spring Boot, desarrollando soluciones con arquitectura organizada y buenas prácticas.
 
 Me interesa seguir creciendo profesionalmente, mejorar mis habilidades en backend y desplegar proyectos en la nube.
