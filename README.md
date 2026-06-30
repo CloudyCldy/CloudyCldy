@@ -13,10 +13,7 @@ Me interesa seguir creciendo profesionalmente, mejorar mis habilidades en backen
 ### Frontend
 - React.js
 - TypeScript
-- Vite
 - Bootstrap
-- TailwindCSS
-- MUI
 
 ### Backend
 - Python (Flask,Conda)
@@ -25,7 +22,6 @@ Me interesa seguir creciendo profesionalmente, mejorar mis habilidades en backen
 
 ###  Bases de Datos
 - MySQL
-- PostgreSQL
 - Mongo DB
 
 ###  Cloud & DevOps
